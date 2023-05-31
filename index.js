@@ -41,17 +41,17 @@ GitHubCalendar(".calendar", "Dilip0012022", {
   tooltips: true,
 });
 
-document.getElementById("resume-button-1").onclick = () => {
-  window.open(
-    "https://drive.google.com/file/d/1TvdRGWPUJQxthdq18ERkkQjzZxGJFaou/view?usp=sharing"
-  );
-};
+// document.getElementById("resume-button-1").onclick = () => {
+//   window.open(
+//     "https://drive.google.com/file/d/1TvdRGWPUJQxthdq18ERkkQjzZxGJFaou/view?usp=sharing"
+//   );
+// };
 
-document.getElementById("resume-button-2").onclick = () => {
-  window.open(
-    "https://drive.google.com/file/d/1TvdRGWPUJQxthdq18ERkkQjzZxGJFaou/view?usp=sharing"
-  );
-};
+// document.getElementById("resume-button-2").onclick = () => {
+//   window.open(
+//     "https://drive.google.com/file/d/1TvdRGWPUJQxthdq18ERkkQjzZxGJFaou/view?usp=sharing"
+//   );
+// };
 
 function openNav() {
   document.getElementById("mySidebar").style.width = "250px";
